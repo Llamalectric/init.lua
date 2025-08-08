@@ -14,4 +14,7 @@ return {
   {
     'mfussenegger/nvim-jdtls',
   },
+  {
+    'tpope/vim-abolish',
+  },
 }
